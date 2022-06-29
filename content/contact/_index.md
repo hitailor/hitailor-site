@@ -1,4 +1,4 @@
 ---
-title: Contact Me
+title: Try HiTailor
 breadcrumb: Contact
 ---
